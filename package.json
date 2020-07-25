@@ -1,0 +1,23 @@
+{
+  "name": "sine-to-val",
+  "version": "1.0.0",
+  "description": "Sine move",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakafumiFukuyo/sine-to-val.git"
+  },
+  "keywords": [
+    "sine",
+    "math"
+  ],
+  "author": "Takafumi Fukuyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakafumiFukuyo/sine-to-val/issues"
+  },
+  "homepage": "https://github.com/TakafumiFukuyo/sine-to-val#readme"
+}
